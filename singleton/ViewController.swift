@@ -11,6 +11,7 @@ class viewcontroller:UIViewController
 {
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("code committed")
 
     }
 }
